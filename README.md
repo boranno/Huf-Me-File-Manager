@@ -1,5 +1,5 @@
 # Huf-Me-File-Manager
-## A Data Structure Course Project
+## A Data Structure Course Project with C++ for Compressing and Decompressing Files along with other features
 
 ### Team Members
 - Sourav Garodia 221-15-5048
